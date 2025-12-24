@@ -77,7 +77,8 @@ The dashboard enables stakeholders to make **data-driven marketing decisions** b
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](./assets/dashboard-preview.png)
+<img width="1121" height="738" alt="image" src="https://github.com/user-attachments/assets/0935b66c-99ea-4a2e-9e57-bf3954e45d99" />
+
 
 > *(Replace with actual image path in your repository)*
 
